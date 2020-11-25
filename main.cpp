@@ -96,7 +96,7 @@ void game(){
         cout << "It is your turn " << currentPlayer << ". Please move (1-9):";
         cin >> move;
         if (cin.fail() || !inRange(1,9,move) || board[move-1] != ' '){
-            cout << "Invalid move ! Try Again." << std::endl;
+            cout << "Invalid move ! Try Again." << endl;
             cin.clear();
             cin.ignore(256,'\n');
             i--;
