@@ -3,7 +3,7 @@
 I developed this console application for a coding task.
 
 ## Notes
-I followed a simple design and procedural approach (no need for OOP).
+I followed a simple design and Object Oriented approach.
 I didn't add too many inline comments for easy read&review.
 
 For the board slots, I used std::array which is better than C-style array. There is no need for vector because number of board slots(9) is known in compile-time.
