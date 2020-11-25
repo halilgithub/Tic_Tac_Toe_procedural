@@ -1,6 +1,7 @@
 # Tic_Tac_Toe
 
 I developed this console application for a coding task.
+I am developing it further and trying to make it more user-friendly.
 
 ## Notes
 I followed a simple design and Object Oriented approach.
