@@ -1,10 +1,9 @@
 # Tic_Tac_Toe
 
 I developed this console application for a coding task.
-I am improving it further and trying to make it more user-friendly.
 
 ## Notes
-I followed a simple design and Object Oriented approach.
+I followed a simple design.
 I didn't add too many inline comments for easy read&review.
 
 For the board slots, I used std::array which is better than C-style array. There is no need for vector because number of board slots(9) is known in compile-time.
