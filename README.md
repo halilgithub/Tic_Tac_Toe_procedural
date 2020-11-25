@@ -1,7 +1,7 @@
 # Tic_Tac_Toe
 
 I developed this console application for a coding task.
-I am developing it further and trying to make it more user-friendly.
+I am improving it further and trying to make it more user-friendly.
 
 ## Notes
 I followed a simple design and Object Oriented approach.
@@ -11,6 +11,7 @@ For the board slots, I used std::array which is better than C-style array. There
 
 I declared two global variables out of main. If I had declared them in main function, I  would have to pass them as ref param to the functions each time and this would be a bad idea.
 
+I am improving it further and trying to make it more user-friendly.
 First version executable is ready in bin folder. I created and tested it on Windows 10 using MinGW/GCC by executing following command in project folder:
 
 g++ -lstdc++ -std=c++17 -o bin/binary_for_windows main.cpp
